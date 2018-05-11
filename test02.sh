@@ -1,4 +1,5 @@
 #!/bin/bash
+#aaaaaaa
 case $1 in
 start)
         /usr/local/nginx/sbin/nginx;;
